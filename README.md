@@ -24,6 +24,9 @@ docker compose up --build
 
 - This command will create the database with tables, populate them with fake data, and execute a database query.
 
+- Output example:
+  <img width="320" height="360" alt="013816" src="https://github.com/user-attachments/assets/845e5d09-42f5-425f-94f7-8ffeb427dd6f" />
+
 ## If you need to populate the tables with different data and run a new query
 
 Open a new terminal window.
